@@ -1,2 +1,3 @@
 This is a new file, new line
-Same file, Second line
+Second line
+Same file, third Line
